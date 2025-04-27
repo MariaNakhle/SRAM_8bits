@@ -27,9 +27,9 @@ This repository hosts the final project for the Introduction to VLSI Design cour
 
 ## 🖼️ Visual Artifacts
 
-- **Block Diagram:** ![Block Diagram](docs/sram_block_diagram.png)
-- **Layout Previews:** ![SRAM Layout](docs/sram_block_diagram.png)
-- **Simulation Waveforms:** ![Waveform](docs/waveform_read_write.png)
+- **Block Diagram:** ![Block Diagram](docs/System_Block_Diagram_Scematic.png)
+- **Layout Previews:** ![SRAM Layout](docs/Whole_System_Layout.png)
+- **Simulation Waveforms:** ![Waveform](docs/Transient_Simulations.png)
 
 ## 📂 Repository Structure
 
